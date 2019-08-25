@@ -1,4 +1,4 @@
-# Performing Descriptive and inferential analysis on the autolib dataaset
+## Descriptive and inferential analysis on the autolib dataset
 ### This project entails performing an indepth descriptive and inferential analysis on the autolib dataset whilst answering some the set research questions.
 
 ### Some of the research questions include:
